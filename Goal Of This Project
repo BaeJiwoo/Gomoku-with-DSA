@@ -1,0 +1,2 @@
+This is a Gomoku project utilizing Data Structures and Algorithms. I will implement the Gomoku game using different data structures, one at a time. Here is my plan:
+Array → Linked List → Stack → Queue → Tree → Hashing → Graph
